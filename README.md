@@ -64,6 +64,5 @@ MQTT
 ![five](https://github.com/user-attachments/assets/414d086a-cb9b-4a3a-9500-07e9b9fcd7ff)
 ![sixjpg](https://github.com/user-attachments/assets/de1b0020-a294-44a4-b28a-432edc99a4ec)
 ![seven](https://github.com/user-attachments/assets/314c2666-bd93-4c80-8290-aa0a831509b6)
-![eight](https://github.com/u![two](https://github.com/user-attachments/assets/e9c33bbb-de2d-45aa-a35c-5f8bd87b53a9)
 ![nine](https://github.com/user-attachments/assets/b14cbd40-9b56-4bac-91fa-5d18e8ecedd5)
 
