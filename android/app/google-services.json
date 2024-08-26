@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450563502075",
+    "project_id": "smartclassroom-75af0",
+    "storage_bucket": "smartclassroom-75af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450563502075:android:f10dd41049a55e20aee55e",
+        "android_client_info": {
+          "package_name": "com.example.iot_class_room"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIUZxjdp-TFHIbppttbB8dJXfiCxo76Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
